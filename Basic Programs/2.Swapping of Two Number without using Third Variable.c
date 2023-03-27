@@ -4,7 +4,7 @@
 int main(){
 
     int No1=0,No2=0;
-    printf("Enter Two Numbers:- ");
+    printf("\n Enter Two Numbers:- ");
     scanf("%d%d",&No1,&No2);
 
     printf("\n Before Swapping => 1st Number=>%d, 2nd Number=>%d",No1,No2);
