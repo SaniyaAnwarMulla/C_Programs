@@ -10,7 +10,8 @@
         printf("\n\n Welcome Dear \n\n");
 
     }
-    else{
+    else
+    {
         printf("\n\n Bye Bye.....\n\n");
     }
     getch();
