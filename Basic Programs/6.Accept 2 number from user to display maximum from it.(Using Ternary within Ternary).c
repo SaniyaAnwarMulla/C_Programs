@@ -1,4 +1,4 @@
-//Accept 2 number from user to display maximum from it.(Using Ternary within Ternary)
+//Accept 2 number from user to display maximum from it.(Using Ternary within Ternary).
 //(condition)?(True):(False);
 
 #include<stdio.h>
