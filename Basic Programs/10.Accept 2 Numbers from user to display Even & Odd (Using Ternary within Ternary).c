@@ -1,4 +1,4 @@
-//Accept 2 Numbers from user to display Even & Odd (Using Ternary within Ternary).
+//Accept 2 Numbers from user to display Even & Odd (Using Ternary within Ternary)
 #include<stdio.h>
 #include<conio.h>
 int main()
