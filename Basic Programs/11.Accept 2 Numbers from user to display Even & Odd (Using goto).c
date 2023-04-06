@@ -15,5 +15,4 @@ int main()
         (Num%2==0)? printf("\n Given Number is Even."):printf("\n Given Number is Odd.");
         getch();
         return 0;
-
 }
