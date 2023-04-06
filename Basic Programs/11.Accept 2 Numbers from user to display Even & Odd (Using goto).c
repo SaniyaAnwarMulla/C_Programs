@@ -1,4 +1,4 @@
-//Accept 2 Numbers from user to display Even & Odd (Using goto)
+//Accept 2 Numbers from user to display Even & Odd (Using goto).
 #include<stdio.h>
 #include<conio.h>
 int main()
