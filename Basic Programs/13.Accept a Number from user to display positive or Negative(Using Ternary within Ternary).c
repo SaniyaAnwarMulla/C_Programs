@@ -1,4 +1,4 @@
-//Accept a Number from user to display positive or Negative(Using Ternary within Ternary)
+//Accept a Number from user to display positive or Negative(Using Ternary within Ternary).
 #include<stdio.h>
 #include<conio.h>
 int main ()
